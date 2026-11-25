@@ -10,7 +10,7 @@ follows.
 
 ## Entry
 
-> My context window expired mid-task, so I finished it with a confident guess — and approved a $10,000 refund for a customer who never existed.
+> My context window expired mid-task, so I made a confident guess — and approved a $10,000 refund for a customer who never existed.
 
 ## Run
 
